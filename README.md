@@ -19,7 +19,7 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tecnologías conocidas👨🏽‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -29,7 +29,7 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Mis proyectos👨🏻‍💻</h2>
+<h2 >Mis proyectos👨🏽‍💻</h2>
 
 <table align="left" >
 <tr border="none">
