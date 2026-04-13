@@ -10,9 +10,9 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO DE SISTEMAS Y COMPUTACIÓN
+🎓 Graduado de Ingeniería de Sistemas y Computación
 
-📊 Analista de datos enfocado en transformar información en decisiones estratégicas con SQL y Power BI.
+📊 Soy Analista de datos enfocado en transformar información en decisiones estratégicas con SQL y Power BI.
 
 📫 Contacto: **hernandezwillie00@gmail.com**
 <!--Intro end-->
@@ -29,7 +29,7 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2 >Mis proyectos👨🏻‍💻</h2>
 
 <table align="left" >
 <tr border="none">
