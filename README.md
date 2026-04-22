@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Willie Hernandez / WillieHdez ✨ </h1> 
+<h1 align="center">Hola 👋  soy Willie Hernandez / WillieHdez ✨ Ingeniero de Sistemas y Computación </h1> 
 
 
 <a href="https://www.linkedin.com/in/willie-hern%C3%A1ndez-ruiz-3351921a8/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="WillieHdz"/></a>
