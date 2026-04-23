@@ -12,7 +12,7 @@
 <p align="left">
 🎓 Graduado de Ingeniería de Sistemas y Computación
 
-📊 Soy Analista de datos enfocado en transformar información en decisiones estratégicas con SQL y Power BI.
+📊 Soy Analista de Datos | Analista Inteligencia de Negocios enfocado en transformar información en decisiones estratégicas con SQL, fundamentos de Python y Power BI como herramientas principales en mi dia a dia.
 
 📫 Contacto: **hernandezwillie00@gmail.com**
 <!--Intro end-->
