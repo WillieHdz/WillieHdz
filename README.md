@@ -39,7 +39,7 @@
         <img align="center" width=100% src="https://github.com/WillieHdz/SuperEco-Sales-Analysis/blob/main/Resumen%20IMG.png"   alt="PROYECTO1" /></a>
       </p>
     <p align="center">
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@WillieHdz" /></a>
+      <a href="https://github.com/WillieHdz" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@WillieHdz" /></a>
     </p>       
 </td>
   
@@ -52,10 +52,10 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="https://github.com/WillieHdz/TechWholesale-Dominicana-SRL" title="Go to Source">
-        <img align="center" width=100% src="https://github.com/WillieHdz/TechWholesale-Dominicana-SRL/blob/main/P%C3%A1g.%201%20-%20Ventas%20%26%20Tendencias%20Comerciales.png"   alt="PROYECTO1" /></a>
+        <img align="center" width=100% src="https://github.com/WillieHdz/TechWholesale-Dominicana-SRL/blob/main/P%C3%A1g.%201%20-%20Ventas%20%26%20Tendencias%20Comerciales.png"   alt="PROYECTO2" /></a>
       </p>
     <p align="center">
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@WillieHdz" /></a>
+      <a href="https://github.com/WillieHdz" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@WillieHdz" /></a>
     </p>       
 </td>
   
