@@ -67,7 +67,7 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://github.com/WillieHdz/Modelo-RD-Ventas" title="Go to Source">
+     <a href="https://github.com/WillieHdz/Modelo-RD-Ventas.git" title="Go to Source">
         <img align="center" width=100% src="https://github.com/WillieHdz/Modelo-RD-Ventas/blob/main/Annotation%202026-06-26%20205901.png"   alt="PROYECTO3" /></a>
       </p>
     <p align="center">
