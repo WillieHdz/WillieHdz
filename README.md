@@ -61,6 +61,25 @@
   
 </tr>
 </table>
+
+
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://github.com/WillieHdz/Modelo-RD-Ventas" title="Go to Source">
+        <img align="center" width=100% src="https://github.com/WillieHdz/Modelo-RD-Ventas/blob/main/Annotation%202026-06-26%20205901.png"   alt="PROYECTO3" /></a>
+      </p>
+    <p align="center">
+      <a href="https://github.com/WillieHdz" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@WillieHdz" /></a>
+    </p>       
+</td>
+  
+</tr>
+</table>
+
+
+
   </div>
 <br>
 <br><br>
